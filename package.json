@@ -1,0 +1,19 @@
+{
+  "name": "oscillator",
+  "version": "1.0.0",
+  "description": "mathematical pendulum model",
+  "private": true,
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "Nelkor",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelkor/oscillator.git"
+  },
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
